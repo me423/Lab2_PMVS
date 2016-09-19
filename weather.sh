@@ -1,4 +1,5 @@
 #!/bin/bash
+
 while :
 do
 	wget -q http://pogoda.tut.by/michalok.html?city=26850 -O index.html
